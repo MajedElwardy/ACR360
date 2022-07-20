@@ -61,7 +61,7 @@ Alternatively, contact me:
 - Majed Elwardy : majed.elwardy@bth.se (corresponding author)
 
 
-Pleasez send email in the format as follows:
+Please send email in the format as follows:
 
 > * subject: ACR360
 
