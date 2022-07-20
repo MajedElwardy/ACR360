@@ -9,7 +9,6 @@ Note:
 Overall, the data contains 26 valid participant.
 
 
-  
 ## 1_Data_ACR_MOS
 
 * This folder provides the opinion scores and rating times of the scenes for each participant.
