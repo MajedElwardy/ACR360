@@ -1,12 +1,12 @@
 # ACR360
-Subjective Quality Assessment Experiment Used the ACR method for 360° Videos.
-
+A dataset on subjective quality assessment of for 360° Videos using ACR methods
 
 
 ## Abstract
-ACR360 dataset containing psychophysical and psychophysiological data of 360 videos on subjective quality assessment. The stimuli were shown to the participants on a head-mounted display.
+The ACR360 dataset contains psychophysical and psychophysiological data on subjective quality assessment of 360° videos. The 360°  video stimuli were shown to the participants on an HTC Vive with integrated eye tracker.
 
-Currently, the dataset contains the mean opinion scores (MOS) and the rest of the data will be uploaded soon.
+This release of the ACR360 dataset contains the mean opinion scores (MOS) obtained from the conducted subjective experiments. Additional data will be uploaded soon.
+
 
 ## Dataset Structure
 The ACR360 dataset contains the following three main folders:
@@ -16,7 +16,7 @@ The ACR360 dataset contains the following three main folders:
 	- Information regarding the coded reference videos and corresponding test videos
 	- The instructions for the download link of the 120 videos.
 	
-1- ACR method
+2- ACR method
 
 	A sub-folder relating to the data type and the information about the participants:
 		1_Data_ACR_MOS
@@ -57,12 +57,11 @@ This work was funded in part by The Knowledge Foundation, Sweden, grant number 2
 ## Contact
 If you have any question about our ACR360 dataset, please use the [public issues section](https://github.com/MajedElwardy/ACR360/issues) on this Github repo. 
 
-Alternatively, contact the authors:
+Alternatively, contact me:
 - Majed Elwardy : majed.elwardy@bth.se (corresponding author)
-- Hans-Jürgen Zepernick: hans-jurgen.zepernick@bth.se
-- Thi My Chinh Chu: thi.my.chinh.chu@bth.se
 
-Please send email in the format as follows:
+
+Pleasez send email in the format as follows:
 
 > * subject: ACR360
 
