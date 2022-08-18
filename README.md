@@ -29,24 +29,23 @@ The ACR360 dataset contains the following three main folders:
 ## Citation
 To use the ACR360 dataset in published work, please cite the following papers:
 
-
-- Plain Text (MDPI and ACS Style)
+- Plain Text
 ```
-Elwardy, M.;  Zepernick, H.-J.; and  Chu, T.M.C., “On the Number of Subjects Needed for 360° Video Quality Experiments: An SOS Based Analysis,” in Proc. Int. Workshop on Quality of Multimedia Experience, Lippstadt, Germany, pp. 1-4, Sep. 2022
+M. Elwardy, Y. Hu, H. -J. Zepernick, T. M. Chinh Chu and V. Sundstedt, “Comparison of ACR Methods for 360° Video Quality Assessment Subject to Participants’ Experience with Immersive Media,” in Proceedings of IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Adelaide, Australia, pp. 43-52, Dec. 2020.
+
 ```
 
 - BibTex
 ```
-@inproceedings{ELW22_SOS,
-    	author    = {M. Elwardy, Hans-J\"urgen Zepernick and Thi My Chinh Chu},
-    	title     = {{On the Number of Subjects Needed for 360° Video Quality Experiments: An SOS Based Analysis}},
-    	booktitle = {Proc. Int. Workshop on Quality of Multimedia Experience},
-    	address   = {Lippstadt, Germany},
-	month     = {Sep.},
-    	year      = {2022},
-     	pages     = {1-4}
+@inproceedings{ELW20,
+    	author	= {Elwardy, Majed and Hu, Yan and Zepernick, Hans-J\"urgen, Chinh Chu, Thi My and Sundstedt, Veronica},
+    	title		= {{Comparison of ACR Methods for 360$^{\circ}$ Video Quality Assessment Subject to Participants’ Experience with Immersive Media}},
+    	booktitle	= {Signal Processing and Communication Systems (ICSPCS)},
+    	address	= {Adelaide, SA, Australia},
+	month	= {Dec.},
+    	year		= {2020},
+     	pages	= {1-10}
 }
-```
 
 
 
