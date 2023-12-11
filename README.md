@@ -88,7 +88,7 @@ M. Elwardy, H. -J. Zepernick, Y. Hu and T. M. Chinh Chu, "ACR360: A Dataset on S
 ```
 @inproceedings{ELW23,
     	author		= {Elwardy, Majed and Zepernick, Hans-J\"urgen and Hu, Yan and Chinh Chu, Thi My },
-    	title		= {{CACR360: A Dataset on Subjective 360° Video Quality Assessment Using ACR Methods}},
+    	title		= {{ACR360: A Dataset on Subjective 360° Video Quality Assessment Using ACR Methods}},
     	booktitle	= {Signal Processing and Communication Systems (ICSPCS)},
     	address		= {Bydgoszcz, Poland},
 	month		= {Sep.},
