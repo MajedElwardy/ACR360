@@ -58,7 +58,7 @@ The ACR360 dataset contains the following three main folders:
 
 
 ## Citation
-To use the ACR360 dataset in published work, please cite the following paper:
+To use the ACR360 dataset in published work, please cite the following two papers:
 
 - Paper 1
 ```
