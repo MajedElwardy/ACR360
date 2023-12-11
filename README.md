@@ -60,22 +60,40 @@ The ACR360 dataset contains the following three main folders:
 ## Citation
 To use the ACR360 dataset in published work, please cite the following paper:
 
-- Plain Text
+- Paper 1
 ```
 M. Elwardy, Y. Hu, H. -J. Zepernick, T. M. Chinh Chu and V. Sundstedt, “Comparison of ACR Methods for 360° Video Quality Assessment Subject to Participants’ Experience with Immersive Media,” in Proceedings of IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Adelaide, Australia, pp. 43-52, Dec. 2020.
 
 ```
 
-- BibTex
+- Paper 2
+```
+M. Elwardy, H. -J. Zepernick, Y. Hu and T. M. Chinh Chu, "ACR360: A Dataset on Subjective 360° Video Quality Assessment Using ACR Methods," in Proceedings of IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Bydgoszcz, Poland, pp. 1-8, Sep. 2023.
+```
+
+- BibTex (Paper 1)
 ```
 @inproceedings{ELW20,
-    	author	= {Elwardy, Majed and Hu, Yan and Zepernick, Hans-J\"urgen, Chinh Chu, Thi My and Sundstedt, Veronica},
+    	author		= {Elwardy, Majed and Hu, Yan and Zepernick, Hans-J\"urgen, Chinh Chu, Thi My and Sundstedt, Veronica},
     	title		= {{Comparison of ACR Methods for 360$^{\circ}$ Video Quality Assessment Subject to Participants’ Experience with Immersive Media}},
     	booktitle	= {Signal Processing and Communication Systems (ICSPCS)},
-    	address	= {Adelaide, SA, Australia},
-	month	= {Dec.},
+    	address		= {Adelaide, SA, Australia},
+	month		= {Dec.},
     	year		= {2020},
-     	pages	= {1-10}
+     	pages		= {1-10}
+}
+```
+
+- BibTex (Paper 2)
+```
+@inproceedings{ELW23,
+    	author		= {Elwardy, Majed and Zepernick, Hans-J\"urgen and Hu, Yan and Chinh Chu, Thi My },
+    	title		= {{CACR360: A Dataset on Subjective 360° Video Quality Assessment Using ACR Methods}},
+    	booktitle	= {Signal Processing and Communication Systems (ICSPCS)},
+    	address		= {Bydgoszcz, Poland},
+	month		= {Sep.},
+    	year		= {2023},
+     	pages		= {1-8}
 }
 ```
 
